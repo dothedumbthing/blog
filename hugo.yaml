@@ -1,0 +1,35 @@
+baseURL: "https://dothedumbthing.github.io/blog/"
+title: "DoTheDumbThing"
+theme: "PaperMod"
+defaultContentLanguage: "en"
+
+params:
+  defaultTheme: dark
+
+  # homepage text block (what you already have)
+  homeInfoParams:
+    Title: "A simple place for simpler thoughts."
+    Content: >-
+      This may or may not be important.      
+
+  # social icons (footer/sidebar depending on PaperMod layout)
+  #socialIcons:
+  #  - name: website
+  #    url: "https://antoniofernandez.com.au"
+
+# Menu across the top
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: Portfolio
+      name: Portfolio
+      url: "https://antoniofernandez.com.au"
+
+
+# Optional caching (from your config)
+caches:
+  images:
+    dir: :cacheDir/images
