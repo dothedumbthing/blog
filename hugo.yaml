@@ -1,21 +1,22 @@
 baseURL: "https://dtdt.antoniofernandez.com.au/"
-title: "DoTheDumbThing"
+title: "Antonio Fernandez"
 theme: "PaperMod"
 defaultContentLanguage: "en"
 
 params:
   defaultTheme: auto
-  disableThemeToggle: true
+  disableThemeToggle: false
   ShowReadingTime: true
   ShowToc: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
 
-  # homepage text block (what you already have)
+  # homepage text block
   homeInfoParams:
-    Title: "A simple place for simpler thoughts."
+    Title: "Do The Dumb Thing"
     Content: >-
-      This may or may not be important.      
+      A digital garden for random thoughts, ideas in progress, half-baked tangents and aphorisms.
+      
 
   # social icons (footer/sidebar depending on PaperMod layout)
   #socialIcons:
@@ -40,7 +41,7 @@ menu:
 
 
 
-# Optional caching (from your config)
+# Optional caching
 caches:
   images:
     dir: :cacheDir/images

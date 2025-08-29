@@ -1,44 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>DoTheDumbThing</title>
-    <link>https://dtdt.antoniofernandez.com.au/</link>
-    <description>Recent content on DoTheDumbThing</description>
+    <title>Antonio Fernandez</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Antonio Fernandez</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Aug 2025 12:18:02 +1000</lastBuildDate>
-    <atom:link href="https://dtdt.antoniofernandez.com.au/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Aug 2025 15:14:54 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fourth</title>
-      <link>https://dtdt.antoniofernandez.com.au/posts/fourth/</link>
-      <pubDate>Fri, 29 Aug 2025 12:18:02 +1000</pubDate>
-      <guid>https://dtdt.antoniofernandez.com.au/posts/fourth/</guid>
-      <description>&lt;h1 id=&#34;fourth&#34;&gt;Fourth&lt;/h1&gt;
-&lt;p&gt;Post number 4&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Third</title>
-      <link>https://dtdt.antoniofernandez.com.au/posts/third/</link>
-      <pubDate>Fri, 29 Aug 2025 12:17:56 +1000</pubDate>
-      <guid>https://dtdt.antoniofernandez.com.au/posts/third/</guid>
-      <description>&lt;h1 id=&#34;third&#34;&gt;Third&lt;/h1&gt;
-&lt;p&gt;Post number three&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Second</title>
-      <link>https://dtdt.antoniofernandez.com.au/posts/second/</link>
-      <pubDate>Fri, 29 Aug 2025 12:17:51 +1000</pubDate>
-      <guid>https://dtdt.antoniofernandez.com.au/posts/second/</guid>
-      <description>&lt;h1 id=&#34;second&#34;&gt;Second&lt;/h1&gt;
-&lt;p&gt;Post number 2&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First</title>
-      <link>https://dtdt.antoniofernandez.com.au/posts/first/</link>
-      <pubDate>Fri, 29 Aug 2025 12:17:45 +1000</pubDate>
-      <guid>https://dtdt.antoniofernandez.com.au/posts/first/</guid>
-      <description>&lt;h1 id=&#34;post-1&#34;&gt;Post 1&lt;/h1&gt;
-&lt;p&gt;Trying&lt;/p&gt;</description>
+      <title>I Whistle a Happy Tune</title>
+      <link>http://localhost:1313/posts/whistleahappytune/</link>
+      <pubDate>Fri, 29 Aug 2025 15:14:54 +1000</pubDate>
+      <guid>http://localhost:1313/posts/whistleahappytune/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.bustle.com/articles/11688-fake-it-til-you-make-it-why-faking-confidence-is-actually-a-really-good-strategy-at&#34;&gt;Faking it may and does work sometimes indeed&lt;/a&gt;, but no amount of pretending can ever replace adequate preparation, skill, or genuine confidence. However much of that you put in, it may still never be enough to feel fully at ease on the podium.&lt;/p&gt;
+&lt;p&gt;Self-doubt and feelings of insufficiency can invade our minds at any time, never welcome, always striking at the moments when we feel more vulnerable - one does not feel insecure when things are going well. It&amp;rsquo;s only when things go pear-shaped, when our skill is tested, that we feel most unable to put it to good use (isn&amp;rsquo;t that funny?). When this happens to me, I remind myself that the job of a Music Director is not only to do the thing they’ve been hired to do, but also to inspire others to do theirs as best they can.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
