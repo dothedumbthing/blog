@@ -4,7 +4,12 @@ theme: "PaperMod"
 defaultContentLanguage: "en"
 
 params:
-  defaultTheme: dark
+  defaultTheme: auto
+  disableThemeToggle: true
+  ShowReadingTime: true
+  ShowToc: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
 
   # homepage text block (what you already have)
   homeInfoParams:
@@ -23,10 +28,16 @@ menu:
     - identifier: home
       name: Home
       url: /
-      weight: 1
+      weight: 10
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 20
     - identifier: Portfolio
       name: Portfolio
       url: "https://antoniofernandez.com.au"
+      weight: 30
+
 
 
 # Optional caching (from your config)
