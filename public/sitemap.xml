@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://dothedumbthing.github.io/blog/</loc>
     <lastmod>2025-08-29T11:48:26+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/</loc>
+    <loc>https://dothedumbthing.github.io/blog/posts/</loc>
     <lastmod>2025-08-29T11:48:26+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/thirdoneisthecharm/</loc>
+    <loc>https://dothedumbthing.github.io/blog/posts/thirdoneisthecharm/</loc>
     <lastmod>2025-08-29T11:48:26+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/mysecond/</loc>
+    <loc>https://dothedumbthing.github.io/blog/posts/mysecond/</loc>
     <lastmod>2025-08-29T11:25:42+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/myfirst/</loc>
+    <loc>https://dothedumbthing.github.io/blog/posts/myfirst/</loc>
     <lastmod>2025-08-29T11:25:34+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/archives/</loc>
+    <loc>https://dothedumbthing.github.io/blog/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/</loc>
+    <loc>https://dothedumbthing.github.io/blog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
+    <loc>https://dothedumbthing.github.io/blog/tags/</loc>
   </url>
 </urlset>
