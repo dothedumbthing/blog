@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Antonio Fernandez</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://dtdt.antoniofernandez.com.au/posts/</link>
     <description>Recent content in Posts on Antonio Fernandez</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 29 Aug 2025 15:14:54 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dtdt.antoniofernandez.com.au/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I Whistle a Happy Tune</title>
-      <link>http://localhost:1313/posts/whistleahappytune/</link>
+      <link>https://dtdt.antoniofernandez.com.au/posts/whistleahappytune/</link>
       <pubDate>Fri, 29 Aug 2025 15:14:54 +1000</pubDate>
-      <guid>http://localhost:1313/posts/whistleahappytune/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.bustle.com/articles/11688-fake-it-til-you-make-it-why-faking-confidence-is-actually-a-really-good-strategy-at&#34;&gt;Faking it may and does work sometimes&lt;/a&gt;, but no amount of pretending can ever replace preparation, skill, or genuine confidence. However much of that you put in, it may even never be enough to feel at ease on the podium. Self-doubt and feelings of insufficiency can invade our minds at any time, and they’re always unwelcome.When this happens to me, I remind myself that the job of a Music Director is not only to &lt;em&gt;do the thing&lt;/em&gt; they&amp;rsquo;ve been hired to do, but also to &lt;strong&gt;inspire others to do theirs as best they can&lt;/strong&gt;. So much of an MD&amp;rsquo;s output is purely based on their body language, their facial expression, their demeanor. You simply can’t afford to look like you’re falling apart, no matter how much you might feel that way inside. As we like to put it, we are in the business of solving problems no one knew they had before they could even realise they happened.&lt;/p&gt;</description>
+      <guid>https://dtdt.antoniofernandez.com.au/posts/whistleahappytune/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.bustle.com/articles/11688-fake-it-til-you-make-it-why-faking-confidence-is-actually-a-really-good-strategy-at&#34;&gt;Faking it may and does work sometimes indeed&lt;/a&gt;, but no amount of pretending can ever replace adequate preparation, skill, or genuine confidence. However much of that you put in, it may still never be enough to feel fully at ease on the podium.&lt;/p&gt;
+&lt;p&gt;Self-doubt and feelings of insufficiency do invade my mind at any time, never welcome, always striking at the moments when I feel most vulnerable - indeed, one does not usually feel insecure when things are going well. It&amp;rsquo;s only when things go pear-shaped, when our skill is tested, that we tend to feel most unable to put that same skill that will steer us on the right direction to good use (isn&amp;rsquo;t that funny?). When this happens to me, I remind myself that the job of a Music Director is not only to do the thing they’ve been hired to do, the sound-related stuff some like to exclusively focus on, but also to inspire others to do theirs as best they can.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
