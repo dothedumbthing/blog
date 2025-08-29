@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://dothedumbthing.github.io/blog/</loc>
     <lastmod>2025-08-29T12:18:02+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/fourth/</loc>
+    <loc>https://dothedumbthing.github.io/blog/posts/fourth/</loc>
     <lastmod>2025-08-29T12:18:02+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/</loc>
+    <loc>https://dothedumbthing.github.io/blog/posts/</loc>
     <lastmod>2025-08-29T12:18:02+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/third/</loc>
+    <loc>https://dothedumbthing.github.io/blog/posts/third/</loc>
     <lastmod>2025-08-29T12:17:56+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/second/</loc>
+    <loc>https://dothedumbthing.github.io/blog/posts/second/</loc>
     <lastmod>2025-08-29T12:17:51+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/first/</loc>
+    <loc>https://dothedumbthing.github.io/blog/posts/first/</loc>
     <lastmod>2025-08-29T12:17:45+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/archives/</loc>
+    <loc>https://dothedumbthing.github.io/blog/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/</loc>
+    <loc>https://dothedumbthing.github.io/blog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
+    <loc>https://dothedumbthing.github.io/blog/tags/</loc>
   </url>
 </urlset>
