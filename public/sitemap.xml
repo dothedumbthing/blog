@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dothedumbthing.github.io/blog/</loc>
-    <lastmod>2025-08-29T12:06:39+10:00</lastmod>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-08-29T12:18:02+10:00</lastmod>
   </url><url>
-    <loc>https://dothedumbthing.github.io/blog/posts/</loc>
-    <lastmod>2025-08-29T12:06:39+10:00</lastmod>
+    <loc>http://localhost:1313/blog/posts/fourth/</loc>
+    <lastmod>2025-08-29T12:18:02+10:00</lastmod>
   </url><url>
-    <loc>https://dothedumbthing.github.io/blog/posts/thefourthonemakesitreal/</loc>
-    <lastmod>2025-08-29T12:06:39+10:00</lastmod>
+    <loc>http://localhost:1313/blog/posts/</loc>
+    <lastmod>2025-08-29T12:18:02+10:00</lastmod>
   </url><url>
-    <loc>https://dothedumbthing.github.io/blog/posts/thirdoneisthecharm/</loc>
-    <lastmod>2025-08-29T11:48:26+10:00</lastmod>
+    <loc>http://localhost:1313/blog/posts/third/</loc>
+    <lastmod>2025-08-29T12:17:56+10:00</lastmod>
   </url><url>
-    <loc>https://dothedumbthing.github.io/blog/posts/mysecond/</loc>
-    <lastmod>2025-08-29T11:25:42+10:00</lastmod>
+    <loc>http://localhost:1313/blog/posts/second/</loc>
+    <lastmod>2025-08-29T12:17:51+10:00</lastmod>
   </url><url>
-    <loc>https://dothedumbthing.github.io/blog/posts/myfirst/</loc>
-    <lastmod>2025-08-29T11:25:34+10:00</lastmod>
+    <loc>http://localhost:1313/blog/posts/first/</loc>
+    <lastmod>2025-08-29T12:17:45+10:00</lastmod>
   </url><url>
-    <loc>https://dothedumbthing.github.io/blog/archives/</loc>
+    <loc>http://localhost:1313/blog/archives/</loc>
   </url><url>
-    <loc>https://dothedumbthing.github.io/blog/categories/</loc>
+    <loc>http://localhost:1313/blog/categories/</loc>
   </url><url>
-    <loc>https://dothedumbthing.github.io/blog/tags/</loc>
+    <loc>http://localhost:1313/blog/tags/</loc>
   </url>
 </urlset>
