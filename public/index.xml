@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DoTheDumbThing</title>
-    <link>https://dothedumbthing.github.io/blog/</link>
+    <link>https://dtdt.antoniofernandez.com.au/</link>
     <description>Recent content on DoTheDumbThing</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 29 Aug 2025 12:18:02 +1000</lastBuildDate>
-    <atom:link href="https://dothedumbthing.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dtdt.antoniofernandez.com.au/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fourth</title>
-      <link>https://dothedumbthing.github.io/blog/posts/fourth/</link>
+      <link>https://dtdt.antoniofernandez.com.au/posts/fourth/</link>
       <pubDate>Fri, 29 Aug 2025 12:18:02 +1000</pubDate>
-      <guid>https://dothedumbthing.github.io/blog/posts/fourth/</guid>
+      <guid>https://dtdt.antoniofernandez.com.au/posts/fourth/</guid>
       <description>&lt;h1 id=&#34;fourth&#34;&gt;Fourth&lt;/h1&gt;
 &lt;p&gt;Post number 4&lt;/p&gt;</description>
     </item>
     <item>
       <title>Third</title>
-      <link>https://dothedumbthing.github.io/blog/posts/third/</link>
+      <link>https://dtdt.antoniofernandez.com.au/posts/third/</link>
       <pubDate>Fri, 29 Aug 2025 12:17:56 +1000</pubDate>
-      <guid>https://dothedumbthing.github.io/blog/posts/third/</guid>
+      <guid>https://dtdt.antoniofernandez.com.au/posts/third/</guid>
       <description>&lt;h1 id=&#34;third&#34;&gt;Third&lt;/h1&gt;
 &lt;p&gt;Post number three&lt;/p&gt;</description>
     </item>
     <item>
       <title>Second</title>
-      <link>https://dothedumbthing.github.io/blog/posts/second/</link>
+      <link>https://dtdt.antoniofernandez.com.au/posts/second/</link>
       <pubDate>Fri, 29 Aug 2025 12:17:51 +1000</pubDate>
-      <guid>https://dothedumbthing.github.io/blog/posts/second/</guid>
+      <guid>https://dtdt.antoniofernandez.com.au/posts/second/</guid>
       <description>&lt;h1 id=&#34;second&#34;&gt;Second&lt;/h1&gt;
 &lt;p&gt;Post number 2&lt;/p&gt;</description>
     </item>
     <item>
       <title>First</title>
-      <link>https://dothedumbthing.github.io/blog/posts/first/</link>
+      <link>https://dtdt.antoniofernandez.com.au/posts/first/</link>
       <pubDate>Fri, 29 Aug 2025 12:17:45 +1000</pubDate>
-      <guid>https://dothedumbthing.github.io/blog/posts/first/</guid>
+      <guid>https://dtdt.antoniofernandez.com.au/posts/first/</guid>
       <description>&lt;h1 id=&#34;post-1&#34;&gt;Post 1&lt;/h1&gt;
 &lt;p&gt;Trying&lt;/p&gt;</description>
     </item>
